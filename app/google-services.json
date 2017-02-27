@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "185478004802",
+    "firebase_url": "https://fir-loginauth-50477.firebaseio.com",
+    "project_id": "fir-loginauth-50477",
+    "storage_bucket": "fir-loginauth-50477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185478004802:android:8461739a80d30821",
+        "android_client_info": {
+          "package_name": "com.irfanandarafifsatrio.firebaseloginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185478004802-qif9vjvcvnvknvgt0mlm6ttt6hq9lrj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuTCBTv6NPsXDYbvEeaDGkSl_2mNkowMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
